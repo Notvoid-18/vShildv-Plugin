@@ -12,7 +12,7 @@ When a player types a wrong command like:
 
 Instead of showing Minecraft chat error:
 
-- ![Sample1](sample1.png)
+- ![Sample1](sample11.png)
 
 ----
 It shows a clean ActionBar message:
